@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TwitchStatic.iml" filepath="$PROJECT_DIR$/TwitchStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-async-http/async-http-client.iml" filepath="$PROJECT_DIR$/java-async-http/async-http-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Twitch-Api-Wrapper/twitch-api-wrapper.iml" filepath="$PROJECT_DIR$/Java-Twitch-Api-Wrapper/twitch-api-wrapper.iml" />
     </modules>
   </component>
 </project>

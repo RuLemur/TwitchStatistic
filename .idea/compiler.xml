@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="async-http-client" />
+        <module name="twitch-api-wrapper" />
         <module name="TwitchStatic" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="async-http-client" target="1.7" />
+      <module name="twitch-api-wrapper" target="1.7" />
       <module name="TwitchStatic" target="1.7" />
     </bytecodeTargetLevel>
   </component>
