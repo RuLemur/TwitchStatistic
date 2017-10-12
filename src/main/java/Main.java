@@ -2,7 +2,6 @@ import com.mb3364.twitch.api.Twitch;
 import com.mb3364.twitch.api.handlers.StreamsResponseHandler;
 import com.mb3364.twitch.api.models.Stream;
 
-import java.sql.*;
 import java.util.List;
 
 /**
